@@ -1,0 +1,17 @@
+h1{
+    font-size: 20px
+}
+
+.putletters-container {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 12px;
+    
+}
+
+input {
+    width: 30px;
+    height: 30px;
+    border-radius:8px;
+    text-align: center
+}
